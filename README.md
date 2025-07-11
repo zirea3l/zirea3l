@@ -1,6 +1,6 @@
 ## Yā min'na! ヾ(＾ ∇ ＾). 🤙
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&text=Hajimemashite&reversal=true&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&text=Hajimemashite&reversal=false&fontAlignY=50"/>
 </p>
 
 <!--
