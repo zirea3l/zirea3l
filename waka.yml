@@ -1,1 +1,16 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # updates daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
