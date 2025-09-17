@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git    1 min           ██████████▓░░░░░░░░░░░░░░   42.92 %
+CSS    1 min           ██████████▓░░░░░░░░░░░░░░   42.13 %
+HTML   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
 ```
 
 <!--END_SECTION:waka-->
